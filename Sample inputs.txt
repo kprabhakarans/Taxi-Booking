@@ -1,0 +1,25 @@
+1, Booking Scenario
+
+Number of bookings :1
+Input 1:
+Customer ID: 1
+Pickup Point: A
+Drop Point: B
+Pickup Time: 9
+
+
+Input 2:
+Number of bookings :1
+Customer ID: 2
+Pickup Point: B
+Drop Point: D
+Pickup Time: 9
+
+
+Input 3:
+Number of bookings :1
+Customer ID: 3
+Pickup Point: B
+Drop Point: C
+Pickup Time: 12
+
